@@ -1,0 +1,4 @@
+1. The startup recycler view, label is "dogs gallery'<img width="439" alt="Screen Shot 2021-10-06 at 12 54 56 PM" src="https://user-images.githubusercontent.com/60366443/136249527-acb06e76-3b88-4be2-adf8-d26e2acb6e0d.png">
+2. when click one of these dog images, it will pop out second activity, which is labeled as "dogs displayer"<img width="406" alt="Screen Shot 2021-10-06 at 12 55 06 PM" src="https://user-images.githubusercontent.com/60366443/136249783-db024129-6406-4cd9-b237-910d477cd877.png">
+3.The changed Icon<img width="432" alt="Screen Shot 2021-10-06 at 12 55 18 PM" src="https://user-images.githubusercontent.com/60366443/136250005-2d91143e-10bc-4869-98c5-f767720c13fb.png">
+4. Generate APK<img width="731" alt="Screen Shot 2021-10-06 at 1 00 20 PM" src="https://user-images.githubusercontent.com/60366443/136250108-32ed2ea8-97e8-4844-ad3d-88c7e8d59f57.png">
